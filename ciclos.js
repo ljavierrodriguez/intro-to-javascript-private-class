@@ -95,3 +95,9 @@ do {
     console.log(j);
     j++;
 } while(j <= 10)
+
+
+let nombre = "Luis Javier";
+for(let letter of nombre){
+    console.log(letter);
+}
