@@ -1,0 +1,15 @@
+1. Crear un botón que, al hacer clic, cambie el color de fondo de un elemento.
+2. Crear un formulario que, al enviarlo, muestre una alerta con el valor ingresado en un campo de texto.
+3. Crear una lista desplegable (select) que, al cambiar la opción seleccionada, muestre un mensaje con el valor seleccionado.
+4. Crear un botón que, al hacer clic, oculte un elemento de la página.
+5. Crear un cuadro de texto que, al presionar la tecla Enter, ejecute una acción (por ejemplo, mostrar un mensaje).
+6. Crear una galería de imágenes donde, al hacer clic en una imagen, se muestre en tamaño completo.
+7. Crear un contador que se incremente en 1 cada vez que se hace clic en un botón.
+8. Crear una tabla dinámica donde, al hacer clic en una celda, se resalte cambiando su color de fondo.
+9. Crear un botón que, al hacer clic, agregue un nuevo elemento a una lista.
+10. Crear un formulario que, al hacer clic en el botón "Limpiar", borre los valores ingresados en los campos de texto.
+11. Crear un reloj digital que se actualice cada segundo.
+12. Crear una barra de progreso que se llene gradualmente al hacer clic en un botón.
+13. Crear una función que cambie el tamaño de un texto cuando se hace scroll en la página.
+14. Crear un juego de memoria donde, al hacer clic en una tarjeta, se muestre su contenido y se verifique si coincide con otra tarjeta previamente seleccionada.
+15. rear un formulario que, al hacer clic en el botón "Enviar", valide que todos los campos estén completos antes de enviar los datos.

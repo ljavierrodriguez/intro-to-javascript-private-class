@@ -1,0 +1,35 @@
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box .box2 {
+    width: 75px;
+    height: 75px;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.btn {
+    margin: 10px;
+    padding: 10px 15px;
+}
+
+.contenido {
+    margin: 5px;
+}
+
+.contenido.show {
+    display: block;
+}
+
+.contenido.hide {
+    display: none;
+}
