@@ -33,3 +33,17 @@
 .contenido.hide {
     display: none;
 }
+
+.box2 {
+    width: 75px;
+    height: 75px;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.box2:hover {
+    background-color: rgb(194, 20, 20);
+}
